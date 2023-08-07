@@ -18,6 +18,7 @@ fi ;
 
 echo "########################################"
 echo "Starting ComfyUI..."
+echo "This is a test message to verify the script modification."
 echo "########################################"
 
 cd /home/runner/ComfyUI
